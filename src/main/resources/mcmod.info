@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "${modname}",
+    "description": "Configure generation features via JSON",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "logoFile": "logo.png",
+    "url": "",
+    "authorList": [
+      "Hiiragi283"
+    ],
+    "credits": "",
+    "dependencies": []
+  }
+]
